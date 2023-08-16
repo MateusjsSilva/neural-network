@@ -1,4 +1,4 @@
-**Neural Network**
+# Neural Network
 
 Este repositório contém uma implementação em Java de uma rede neural simples para classificação binária. A arquitetura da rede neural consiste em três camadas: uma camada de entrada, uma camada oculta e uma camada de saída.
 
