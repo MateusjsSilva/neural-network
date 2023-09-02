@@ -36,4 +36,4 @@ Você pode modificar os parâmetros e variáveis no código para experimentar co
 
 ### Aviso
 
-Este código é destinado a fins educacionais e demonstra uma implementação básica de rede neural. Para tarefas mais complexas, considere o uso de bibliotecas e frameworks de aprendizado profundo estabelecidos.
+Este código é destinado a fins educacionais e demonstra uma implementação básica de rede neural.
